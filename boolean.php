@@ -1,16 +1,18 @@
 <?php
 
-/* FALSE */
-# $a = false;
-# $a = 0;
-# $a = 0.0;
-# $a = "";
-# $a = '';
-# $a = "0";
-# $a = NULL;
-# $a = [];
-# $a = array();
+ 
+ $a = false;
+ $b = 0;
+ $c = 0.0;
+ $d = "";
+ $a = '';
+ $a = "0";
+ $a = NULL;
+ $a = [];
+ $a = array();
 
+ gettype = (a, b ,c);
+/*
 $a = '0';
 
 if (empty($a)) { 
@@ -22,4 +24,4 @@ if (empty($a)) {
 	echo 'FALSE';
 
 }
-
+*/
